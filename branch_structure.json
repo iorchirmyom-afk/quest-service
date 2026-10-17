@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-442-in-game-marketplace-and-trading-system",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-442-in-game-marketplace-and-trading-system": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-442-in-game-marketplace-and-trading-system",
+    "origin"
+  ]
+}
